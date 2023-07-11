@@ -39,3 +39,7 @@
 .x{
   text-align: center;
 }
+.perro{
+  width: 130px; /* Ancho de la imagen */
+  height: 130px; /* Alto de la imagen */
+}
